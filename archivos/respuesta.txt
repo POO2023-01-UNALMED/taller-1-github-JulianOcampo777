@@ -1,0 +1,1 @@
+En el paso 8 no se pudo hacer el commit ya que la carpeta estaba vacía y esto no cuenta como cambio
