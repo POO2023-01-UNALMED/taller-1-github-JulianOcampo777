@@ -1,1 +1,1 @@
-En el paso anterior sí se hizo el commit ya que la carpeta archivos tenía contenido y no estaba vacía 
+Es importante evitarlo para prevenir conflictos entre archivos y no tener que realizar una mezcla manual, y elegir con qué cambios nos quedamos, ya que esto es poco eficiente
