@@ -1,0 +1,1 @@
+En el paso anterior sí se hizo el commit ya que la carpeta archivos tenía contenido y no estaba vacía 
